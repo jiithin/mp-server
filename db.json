@@ -1,0 +1,110 @@
+{
+  "allvideos": [
+    {
+      "id": "4",
+      "name": "Calvin Harris - Sweet Nothing",
+      "url": "https://i1.sndcdn.com/artworks-000133489467-u691hr-t500x500.jpg",
+      "link": "https://www.youtube.com/embed/17ozSeGw-fY"
+    },
+    {
+      "id": "5",
+      "name": "Avicii - Wake Me Up",
+      "url": "https://i1.sndcdn.com/artworks-zmVOvMMUim2rylwS-WNzgPw-t500x500.jpg",
+      "link": "https://www.youtube.com/embed/IcrbM1l_BoI"
+    },
+    {
+      "id": "6",
+      "name": "Avicii - Waiting For Love",
+      "url": "https://i1.sndcdn.com/artworks-2BltinGLLisRCagp-x34t5A-t500x500.jpg",
+      "link": "https://www.youtube.com/embed/cHHLHGNpCSA"
+    },
+    {
+      "id": "2",
+      "name": "Calvin Harris - Slide",
+      "url": "https://i1.sndcdn.com/artworks-000488791068-hosasv-t500x500.jpg",
+      "link": "https://www.youtube.com/embed/8Ee4QjCEHHc"
+    }
+  ],
+  "history": [
+    {
+      "name": "Avicii - Waiting For Love",
+      "link": "https://www.youtube.com/embed/cHHLHGNpCSA",
+      "timeStamp": "03/30/2024, 04:28:16 PM",
+      "id": 1
+    },
+    {
+      "name": "Avicii - Wake Me Up",
+      "link": "https://www.youtube.com/embed/IcrbM1l_BoI",
+      "timeStamp": "03/30/2024, 04:28:23 PM",
+      "id": 2
+    },
+    {
+      "name": "Calvin Harris - Sweet Nothing",
+      "link": "https://www.youtube.com/embed/17ozSeGw-fY",
+      "timeStamp": "03/30/2024, 04:28:26 PM",
+      "id": 3
+    },
+    {
+      "name": "Calvin Harris, Dua Lipa - One Kiss ",
+      "link": "https://www.youtube.com/embed/DkeiKbqa02g",
+      "timeStamp": "03/30/2024, 04:28:31 PM",
+      "id": 4
+    },
+    {
+      "name": "Calvin Harris - Sweet Nothing",
+      "link": "https://www.youtube.com/embed/17ozSeGw-fY",
+      "timeStamp": "03/30/2024, 07:34:27 PM",
+      "id": 5
+    },
+    {
+      "name": "Avicii - Wake Me Up",
+      "link": "https://www.youtube.com/embed/IcrbM1l_BoI",
+      "timeStamp": "04/06/2024, 04:36:52 PM",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Avicii",
+      "allVideos": [
+        {
+          "id": "5",
+          "name": "Avicii - Wake Me Up",
+          "url": "https://i1.sndcdn.com/artworks-zmVOvMMUim2rylwS-WNzgPw-t500x500.jpg",
+          "link": "https://www.youtube.com/embed/IcrbM1l_BoI"
+        },
+        {
+          "id": "6",
+          "name": "Avicii - Waiting For Love",
+          "url": "https://i1.sndcdn.com/artworks-2BltinGLLisRCagp-x34t5A-t500x500.jpg",
+          "link": "https://www.youtube.com/embed/cHHLHGNpCSA"
+        }
+      ]
+    },
+    {
+      "categoryName": "Calvin Harris",
+      "allVideos": [
+        {
+          "id": "4",
+          "name": "Calvin Harris - Sweet Nothing",
+          "url": "https://i1.sndcdn.com/artworks-000133489467-u691hr-t500x500.jpg",
+          "link": "https://www.youtube.com/embed/17ozSeGw-fY"
+        },
+        {
+          "id": "2",
+          "name": "Calvin Harris - Slide",
+          "url": "https://i1.sndcdn.com/artworks-000488791068-hosasv-t500x500.jpg",
+          "link": "https://www.youtube.com/embed/8Ee4QjCEHHc"
+        },
+        {
+          "id": "4",
+          "name": "Calvin Harris - Sweet Nothing",
+          "url": "https://i1.sndcdn.com/artworks-000133489467-u691hr-t500x500.jpg",
+          "link": "https://www.youtube.com/embed/17ozSeGw-fY"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
